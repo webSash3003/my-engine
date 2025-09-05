@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: 
-Crawl-delay: 10
-Host: www.waytohome.online
-Host: waytohome.online
-Sitemap: http://waytohome.online/sitemap.xml
